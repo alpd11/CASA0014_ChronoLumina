@@ -31,6 +31,11 @@
 3. **Lighting Display**:
    - The RGBW LEDs display a combination of colors whose intensity is determined by the distances measured by the sensors.
 
+  ![Chrono Lumina Physical Prototype](Chrono_Lumina_Prototype.jpg "Chrono Lumina Physical Prototype")
+  ![Chrono Lumina Red_Sensor](Chrono_Lumina_Prototype_Red_Sensor.jpg "Chrono Lumina Red Sensor")
+  ![Chrono Lumina Green_Sensor](Chrono_Lumina_Prototype_Green_Sensor.jpg "Chrono Lumina Green Sensor")
+  ![Chrono Lumina Blue_Sensor](Chrono_Lumina_Prototype_Blue_Sensor.jpg "Chrono Lumina Blue Sensor")
+
 ## How It Functions in the Physical World
 
 When operational, the **Chrono Lumina** system interacts with the surrounding environment:
