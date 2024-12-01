@@ -41,12 +41,7 @@ When operational, the **Chrono Lumina** system interacts with the surrounding en
 
 2. **Real-Time Feedback**:
    - The calculated RGB values are transmitted to an MQTT server.
-   - These values can be used by other systems, such as a centralized controller or a visualization interface.
-
-3. **Practical Applications**:
-   - **Interactive Displays**: Engage users with responsive lighting.
-   - **Ambient Lighting**: Automatically adjust light intensity based on environmental distances.
-   - **Smart Spaces**: Integrate with IoT systems for advanced functionalities.
+   - Related system variables can be monitored using the Serial Monitor.
 
 ---
 
